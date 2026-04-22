@@ -1,2 +1,7 @@
-# demo-odontologia-integral-dr-nunez-2602-2a
-Demo web para Odontología Integral DR Nuñez 2602 2A — diseñada por eterlab.
+# Odontología Integral DR Nuñez 2602 2A
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
